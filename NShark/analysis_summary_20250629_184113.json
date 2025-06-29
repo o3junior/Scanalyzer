@@ -1,0 +1,11 @@
+{
+  "total_windows": 215,
+  "scan_windows": 160,
+  "normal_windows": 55,
+  "scan_percentage": 74.4186046511628,
+  "avg_scan_score": 7.162790697674419,
+  "max_scan_score": 12,
+  "avg_destinations_per_scan": 10.7875,
+  "avg_ports_per_scan": 0.05625,
+  "avg_packets_per_scan": 1000.0
+}
